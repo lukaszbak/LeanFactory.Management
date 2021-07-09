@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+tcpkey.ppk
+*.log
+__pycache__/
+*.py[cod]
+*save_*/
